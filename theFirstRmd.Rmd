@@ -1,7 +1,8 @@
 ---
 title: "myFirstRmd"
-output: html_document
-date: "2022-12-13"
+output: github_document
+  html_document: 
+ date: "2022-12-13"
 ---
 
 ```{r setup, include=FALSE}
